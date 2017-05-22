@@ -1,0 +1,9 @@
+[submodule "dockerPi"]
+	path = dockerPi
+	url = https://github.com/benbuhr/dockerPi.git
+[submodule "swarm-microservice-demo-v1"]
+	path = swarm-microservice-demo-v1
+	url = https://github.com/benbuhr/swarm-microservice-demo-v1.git
+[submodule "ng-aspnetcore-docker"]
+	path = ng-aspnetcore-docker
+	url = https://github.com/benbuhr/ng-aspnetcore-docker.git
